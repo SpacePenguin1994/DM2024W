@@ -1,5 +1,5 @@
 ---
-layout: 主页
+layout: home
 title: 主页
 nav_exclude: true
 seo:
