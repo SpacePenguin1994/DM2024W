@@ -1,6 +1,6 @@
 ---
 layout: home
-title: home
+title: 主页
 nav_exclude: true
 seo:
   type: 课程
