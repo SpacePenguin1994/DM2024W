@@ -18,7 +18,7 @@ tagline: Linear Algebra SPRING 2024
 description: Course Website for Linear Algebra at SHNU in SPRING 2024
 author: Qizhe Yang
 baseurl: '/' # the subpath of your site, e.g. /blog
-url: 'https://www.la2024s.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://www.dm2024w.spacepenguin.com.cn' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
 
 # Theme settings
