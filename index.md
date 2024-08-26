@@ -28,7 +28,7 @@ seo:
 **主讲人:** [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
 **课程时间地点:** &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp; 每周三(1-16周), 奉贤3教楼401
- <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;9:45 a.m.- 11：15 a.m. &emsp;每周五(1-16周)，奉贤3教楼401
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;9:45 a.m.- 11：15 a.m. &emsp;每周五(1-16周)，奉贤3教楼401
 
 
  更多信息可以关注 [Schedule page](schedule.md).
@@ -43,13 +43,13 @@ seo:
 欢迎大家提出关于本课程的问题或建议。
 
 
-# 课程通知
+## 课程通知
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
 
-# 之前的课程资料
+## 之前的课程资料
 
 - [2023年秋季学期](https://www.dm2023w.spacepenguin.com.cn)
