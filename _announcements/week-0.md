@@ -1,7 +1,7 @@
 ---
-title: Week 0 Announcement
+title: 第0周课程通知
 week: 0
-date: 2024-02-23
+date: 2024-08-26
 ---
 
-Welcome to the course of Linear Algebra!
+欢迎来到离散数学课程！

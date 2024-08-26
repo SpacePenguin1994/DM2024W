@@ -1,21 +1,21 @@
 ---
 layout: page
-title: Syllabus
+title: 课程信息
 description: >-
-    Course policies and information.
+    课程大纲与政策
 ---
 
-# Syllabus
+# 课程大纲与政策
 {:.no_toc}
 
-## Table of contents
+## 目录
 {: .no_toc .text-delta }
 
 1. TOC
 {:toc}
 
 ---
-## Overview
+## 概览
 
 In this course, our aim is to explain this beautiful and useful part of mathematics. We' ll start with solving linear equations $A\mathbf{x}=\mathbf{b}$. The vector of $A\mathbf{x}$ is a linear combination of the columns of $A$. By solving the equations, We'll introduce the four fundamental subspaces for the matrix $A$. Then we'll explain the fundamental theorem of linear algebra. Also we'll show some applications.
 
@@ -29,24 +29,24 @@ By the end of the course, students will learn:
 -  Applications of linear algebra.
 
 
-## Policies
+## 课程政策
 
-### Cheating
+### 关于作弊
 
 You are encouraged to collaborate with your classmates or utilize online resources for any homework. Actually, you can also ask for the instructor. **However, directly copying and pasting code or answers is prohibited.** If I ask you how you proved or  why your answers are correct 
 and you do not know, it will be evident that you have copied it. Don’t take the risk. 
 
-### Homework
+### 课程作业
 
 The **HW**{:.label.label-red} will be released once a week. 
 
 **Please note that late submissions will incur a 25% penalty.**
 
-### Final Exam
+### 期末考试
 
 This course will have only one exam, the final exam. The more information will be decided later.
 
-### Grades
+### 分数计算
 
 Students' grades**Grade**{:.label.label-green} will be determined by the following  two components:
 -  Homework**HW**{:.label.label-red},
@@ -63,7 +63,7 @@ This course website, [Linear Algebra](../), will be your one-stop resource for t
 
 
 
-**Reference**
+**参考资源**
 
 Here're some recommended books：
 

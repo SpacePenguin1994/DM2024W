@@ -1,10 +1,10 @@
 ---
-layout: home
-title: Home
+layout: 主页
+title: 主页
 nav_exclude: true
 seo:
-  type: Course
-  name: Linear Algebra, SHNU
+  type: 课程
+  name: 离散数学
 ---
 
 # {{ site.tagline }}
@@ -17,57 +17,39 @@ seo:
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %} -->
 
-## About the Class
+## 关于本课程
 
-Linear algebra is the branch of mathematics concerning linear equations such as:
-- $a_1x_1 + a_2x_2 + \cdots + a_nx_n = b$,
+离散数学是计算机科学的数学基础。在这门课程中，学生将学习计算机所需要的数学知识，并培养其逻辑思维和数学思维能力。为了实现这些目标，课程将涵盖以下主题：逻辑学、集合论、代数结构、组合数学、图论和初等数论。完成这门课程后，学生将掌握计算机科学未来学习所需的必要数学基础。
 
-linear maps such as:
+关于课程介绍的更多信息和课程要求请关注 [Syllabus page](syllabus.md)
 
-- $(x_1,\ldots,x_n)\rightarrow a_1x_1 + a_2x_2 + \cdots + a_nx_n$
+## 课程基本信息
 
-In fact, it's central to almost all areas of mathematics. In this course, we will follow the idea of solving linear equations $A\mathbf{x}=\mathbf{b}$ and introduce the four fundamental subspaces for the matrix $A$. Hence we'll show the fundamental theorem of linear algebra.
+**主讲人:** [杨启哲](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
 
-Enjoy the class!
-
-See the [Syllabus page](syllabus.md) for more details on course policies.
-
-## General Information
-
-**Instructor:** [Qizhe Yang](https://basics.sjtu.edu.cn/~yangqizhe/), qzyang(at)shnu.edu.cn
-
-**Time and Location:**
-
-- For the class 1 of Computer Science and Technology (Teaching Training):
-  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp;Every Monday in Week 1-16, &nbsp;&nbsp;&nbsp;&nbsp;&thinsp; 奉贤3教楼316
-  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp;Every <font color="#dd0000">odd Friday</font> in Week 1-15，奉贤3教楼101
-- For the class 1 of Electronic Information:
-  - &ensp;&nbsp;13:00 p.m.- 14:30 p.m. &nbsp;Every Monday in Week 1-16, &emsp;&ensp;&nbsp;&thinsp;&thinsp;奉贤3教楼416
-  - &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &emsp;&nbsp; Every <font color="#dd0000">even Friday</font> in Week 2-16， 奉贤3教楼112
+**课程时间地点:** &ensp;&nbsp;8:00 a.m.- 9:30 a.m. &nbsp; 每周三(1-16周), 奉贤3教楼401
+ <br/>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;9:45 a.m.- 11：15 a.m. &emsp;每周五(1-16周)，奉贤3教楼401
 
 
- For more details about the class, see the [Schedule page](schedule.md).
+ 更多信息可以关注 [Schedule page](schedule.md).
 
 
-## Course Feedback
+## 课程反馈
 
-We have set up a course questionnaire:
+我们建立了一个长期的课程反馈问卷:
 
 - [《线性代数》课程调查问卷](https://www.wjx.cn/vm/tU88Sco.aspx)
 
-Everyone is welcome to submit his/her questions or suggestions about this course.
+欢迎大家提出关于本课程的问题或建议。
 
-**Updated in Jun 6, 2022**
 
-Since we will finish the course in the next week, we have set up a new questionnaire for collecting the feedback of this course:
-
-- [《线性代数》完课调查问卷](https://www.wjx.cn/vm/rQggcUK.aspx#)
-
-The questionnaire is not mandatory, but I will appreciate it if you can spend a few minutes to fill it out. Thank you!
-
-# Announcements
+# 课程通知
 
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+
+# 之前的课程资料
+
+- [2023年秋季学期](https://www.dm2023w.spacepenguin.com.cn)
