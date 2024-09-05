@@ -7,7 +7,7 @@ Lec 0
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec0-handout.pdf)\]
 
 
-### 数理逻辑部分：
+数理逻辑部分：
 
 Lec 1
 : **命题逻辑(I)(Proposition Logic(I))**
