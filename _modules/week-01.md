@@ -22,9 +22,9 @@ Lec 3
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec3-handout.pdf)\]
 
 Lec 4
-: **一阶逻辑(I)(First Order Logic(I))**
+: **一阶逻辑(I)(First-Order Logic(I))**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec4-handout.pdf)\]
 
 Lec 5
-: **一阶逻辑(II)(First Order Logic(III))**
+: **一阶逻辑(II)(First-Order Logic(II))**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec5-handout.pdf)\]
