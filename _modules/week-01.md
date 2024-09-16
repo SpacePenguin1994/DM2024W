@@ -28,3 +28,19 @@ Lec 4
 Lec 5
 : **一阶逻辑(II)(First-Order Logic(II))**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec5-handout.pdf)\]
+
+
+集合论部分：
+
+Lec 6
+: **集合论(Set Theory)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec6-handout.pdf)\]
+
+Lec 7
+: **关系(Relation)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec7-handout.pdf)\]
+
+Lec 8
+: **函数(Function)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec8-handout.pdf)\]
+
