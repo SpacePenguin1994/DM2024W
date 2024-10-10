@@ -7,3 +7,6 @@ HW 1
 
 HW 2
 : **HW**{: .label .label-red }Released:[Homework #2-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw2sol.pdf)  
+
+HW 3
+: **HW**{: .label .label-red }Released:[Homework #3-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw3sol.pdf)  
