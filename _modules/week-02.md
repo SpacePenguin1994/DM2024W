@@ -29,3 +29,7 @@ HW 6
 HW 7
 :  **HW**{: .label .label-red }Released: [Homework #7-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw7-noblank.pdf) &nbsp; [Homework #7-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw7-blank.pdf)
 :  **DUE**{: .label .label-yellow} Nov 6
+
+HW 8
+:  **HW**{: .label .label-red }Released: [Homework #8-不留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw8-noblank.pdf) &nbsp; [Homework #8-留空版](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw8-blank.pdf)
+:  **DUE**{: .label .label-yellow} Nov 13
