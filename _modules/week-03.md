@@ -28,3 +28,6 @@ HW 8
 
 HW 9
 : **HW**{: .label .label-red }Released:[Homework #9-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw9sol.pdf)  
+
+HW 10
+: **HW**{: .label .label-red }Released:[Homework #10-sol](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/homework/DM-hw10sol.pdf) 
