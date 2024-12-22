@@ -65,3 +65,11 @@ Lec 11
 Lec 12
 : **组合计数基础(Combinatorial Counting)**
   :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec12-handout.pdf)\]
+
+
+课程总结：
+
+Lec 13
+: **复习(Review)**
+  :  \[[slides-zh](https://basics.sjtu.edu.cn/~yangqizhe/pdf/dm2024w/slides/DMLec13-handout.pdf)\]
+
